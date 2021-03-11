@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+h1, h3 {
+	color: red;
+}
+
+.myFonts {
+	font-size: 20px;
+	font-family: Monaco;
+}
+
+.myTable {
+	
+	width: 50%;
+	font-family: sans-serif;
+	
+}
+
+
+.myButton {
+	
+	color: white;
+	background-color: blue;
+	border: 2px solid black;
+	font-size: 24px;
+	padding: 10px 10px 10px 10px;
+	transition-duration: 1s;
+	
+}
+
+.myButton:hover {
+	
+	background-color: red;
+	color: black;
+	
+}

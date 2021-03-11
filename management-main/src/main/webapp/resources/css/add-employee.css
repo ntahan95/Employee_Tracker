@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+body {
+	background:
+		url(/management-main/URLToImagesFolder/background.jpg)
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
