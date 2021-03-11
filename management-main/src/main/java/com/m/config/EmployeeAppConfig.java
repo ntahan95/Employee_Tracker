@@ -40,7 +40,7 @@ public class EmployeeAppConfig implements WebMvcConfigurer {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 		
 		dataSource.setUsername("root");
-		dataSource.setPassword("crosman123");
+		dataSource.setPassword("password");
 		dataSource.setUrl("jdbc:mysql://localhost:3306/management?useSSL=false");
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		
